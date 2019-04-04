@@ -9,12 +9,19 @@ class DatosTemperatura extends Component {
         const {temperatura, viento, humedad} = this.props;
 
         return (
-            <div>
-                <h1>{`${temperatura} Cº`}</h1>
-                <div>
-                    <span>Humedad {humedad} % </span>
-                    <span>Vel Viento {viento} km/h </span>
+            <div className="App-datostemp">
+                <div id="App-temp">
+                    <span>{`${temperatura} Cº`}</span>
                 </div>
+
+                <div id="App-hum">
+                    <span>{humedad} % </span>
+                </div>
+
+                <div id="App-viento">
+                    <span>{viento} km/h </span>
+                </div>
+
             </div>
         )
     }

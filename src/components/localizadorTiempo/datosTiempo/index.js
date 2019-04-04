@@ -19,13 +19,28 @@ class DatosTiempo extends Component {
     render(){
         const {data} = this.props;
         const TempBase = 20;
+        const HumBase = 20;
+        const VientoBase = 5;
         return(
             <div id="datosTiempo">
-                <h1>Datos Tiempo</h1>
+                <head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css"></link></head>
+
+                  <div id="titulos">
+                    <div id="p1" className="animated fadeInLeft">
+                        <p>Temperatura</p>
+                    </div>
+                    <div id="p2" className="animated fadeInUp">
+                        <p>Humedad</p>
+                    </div>
+                    <div id="p3" className="animated fadeInRight">
+                        <p>Velocidad del <br/>Viento</p>
+                    </div>
+                  </div>
                 <IconoTiempo icono={data} />
                 <DatosTemperatura temperatura={data.main ? this.calcularTemperatura(data.main.temp): TempBase}
-                viento={data.wind ? this.calcularViento(data.wind.speed) : 5}
-                humedad={data.main ? data.main.humidity : 20}               />
+                viento={data.wind ? this.calcularViento(data.wind.speed) : VientoBase}
+                humedad={data.main ? data.main.humidity : HumBase}               />
+
             </div>
         )
     }

@@ -23,7 +23,6 @@ class LocalizadorTiempo extends Component {
         const data = this.state;
         return(
             <div>
-                <h2> Componente Localizador Tiempo </h2>
                 <Localizador ciudad={location}/>
                 <DatosTiempo data={data} />
             </div>
