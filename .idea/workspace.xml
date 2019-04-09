@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36d3f6c1-f337-40c7-8274-76d977b09eb8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppTiempoReact" beforeDir="false" />
-    </list>
+    <list default="true" id="36d3f6c1-f337-40c7-8274-76d977b09eb8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,14 +12,15 @@
     <session id="-1948080791">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -31,7 +28,7 @@
           <entry key="CSS" value="9" />
           <entry key="HTML" value="1" />
           <entry key="JSX Harmony" value="7" />
-          <entry key="JavaScript" value="22" />
+          <entry key="JavaScript" value="23" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -46,7 +43,20 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,6 +80,7 @@
         <option value="$PROJECT_DIR$/apptiempo/src/components/localizadorTiempo/datosTiempo/index.js" />
         <option value="$PROJECT_DIR$/apptiempo/src/components/localizadorTiempo/datosTiempo/datosTemperatura/index.js" />
         <option value="$PROJECT_DIR$/apptiempo/src/App.css" />
+        <option value="$PROJECT_DIR$/src/App.js" />
       </list>
     </option>
   </component>
@@ -110,6 +121,17 @@
             <path>
               <item name="AppTiempo" type="b2602c69:ProjectViewProjectNode" />
               <item name="AppTiempo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AppTiempo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppTiempo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AppTiempo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AppTiempo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -159,16 +181,17 @@
       <workItem from="1554365653468" duration="8115000" />
       <workItem from="1554392072601" duration="647000" />
       <workItem from="1554393030687" duration="27000" />
+      <workItem from="1554393058781" duration="217000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23137000" />
+    <option name="totallyTimeSpent" value="23354000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="-7" width="1455" height="1017" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27240142" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27670252" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -215,5 +238,15 @@
     <entry file="file://$PROJECT_DIR$/apptiempo/src/components/commons/Footer/Footer.jsx" />
     <entry file="file://$PROJECT_DIR$/apptiempo/src/App.js" />
     <entry file="file://$PROJECT_DIR$/apptiempo/src/App.css" />
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
