@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.6cf5f1b5.chunk.css",
-  "main.js": "/static/js/main.3b65873f.chunk.js",
-  "main.js.map": "/static/js/main.3b65873f.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.dee79f4b.chunk.js": "/static/js/2.dee79f4b.chunk.js",
-  "static/js/2.dee79f4b.chunk.js.map": "/static/js/2.dee79f4b.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.9a78c54753db5b57670dce6ba06eb133.js": "/precache-manifest.9a78c54753db5b57670dce6ba06eb133.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.6cf5f1b5.chunk.css.map": "/static/css/main.6cf5f1b5.chunk.css.map"
+  "main.css": "/AppReactTiempo/static/css/main.6cf5f1b5.chunk.css",
+  "main.js": "/AppReactTiempo/static/js/main.79468d9a.chunk.js",
+  "main.js.map": "/AppReactTiempo/static/js/main.79468d9a.chunk.js.map",
+  "runtime~main.js": "/AppReactTiempo/static/js/runtime~main.6169ab65.js",
+  "runtime~main.js.map": "/AppReactTiempo/static/js/runtime~main.6169ab65.js.map",
+  "static/js/2.dee79f4b.chunk.js": "/AppReactTiempo/static/js/2.dee79f4b.chunk.js",
+  "static/js/2.dee79f4b.chunk.js.map": "/AppReactTiempo/static/js/2.dee79f4b.chunk.js.map",
+  "index.html": "/AppReactTiempo/index.html",
+  "precache-manifest.95e87d8ba8176d3aef8e5a08cfc2b34f.js": "/AppReactTiempo/precache-manifest.95e87d8ba8176d3aef8e5a08cfc2b34f.js",
+  "service-worker.js": "/AppReactTiempo/service-worker.js",
+  "static/css/main.6cf5f1b5.chunk.css.map": "/AppReactTiempo/static/css/main.6cf5f1b5.chunk.css.map"
 }
